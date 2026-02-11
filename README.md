@@ -2,20 +2,7 @@
  
 🚀 DevOps Engineer at **Snapp!**  
 💡 Passionate about automation, cloud-native systems, and solving real-world infrastructure challenges.
- 
----
- 
-## About Me
- 
-I’m a Backend & DevOps Engineer passionate about building reliable, scalable, and production-grade systems.
-I started my academic journey in 2012 at QUT, where I studied Computer Engineering. My career began with PHP, and during university I strengthened my foundation by working with Java.
-In 2018, I transitioned into DevOps, where I found my true interest in automation, cloud-native infrastructure, and distributed systems.
-I genuinely enjoy working with Golang and Python, and I’m constantly learning, improving, and exploring new technologies. I believe in building systems that are practical, observable, and impactful in real-world environments.
- 
----
- 
-## 🧰 Tech Stack
- 
+
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -29,26 +16,26 @@ I genuinely enjoy working with Golang and Python, and I’m constantly learning,
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/-ELK-005571?logo=elastic&logoColor=white) 
 ![Ceph](https://img.shields.io/badge/-Ceph-EF5C55?logo=ceph&logoColor=white)
+
+
+## About Me
  
----
- 
-## 🏗️ Engineering Interests
+I’m a Backend & DevOps Engineer passionate about building reliable, scalable, and production-grade systems.
+I started my academic journey in 2012 at QUT, where I studied Computer Engineering. My career began with PHP, and during university I strengthened my foundation by working with Java.
+In 2018, I transitioned into DevOps, where I found my true interest in automation, cloud-native infrastructure, and distributed systems.
+I genuinely enjoy working with Golang and Python, and I’m constantly learning, improving, and exploring new technologies. I believe in building systems that are practical, observable, and impactful in real-world environments.
+
+
+## Engineering Interests
  
 - ☸️ Kubernetes internals & cluster design
 - 🔐 System security & networking
 - 🧩 Microservices architecture
 - 📦 Distributed storage (Ceph, S3)
-- 🗄️ Database clustering
+- 🗄️ Database custering
 - 🕸️ Service mesh
 - 📊 Cost monitoring & infrastructure analytics
- 
----
- 
-## 🤝 Let's Connect
- 
-- 💼 DevOps | Cloud | Golang
-- 🧠 Always learning, always improving
- 
+
 ---
  
 ⭐️ *“Automation is not a luxury — it's a necessity.”*
