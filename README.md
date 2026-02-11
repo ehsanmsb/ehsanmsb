@@ -31,7 +31,13 @@
 ![OpenID Connect](https://img.shields.io/badge/-OIDC-EB5424?logo=openid&logoColor=white)
 ![IAM](https://img.shields.io/badge/-IAM-232F3E?logo=amazonaws&logoColor=white)
 ![Kubernetes Operator](https://img.shields.io/badge/-Kubernetes%20Operator-326CE5?logo=kubernetes&logoColor=white)
-
+![Service Mesh](https://img.shields.io/badge/-Service%20Mesh-00B3E6?logo=istio&logoColor=white)
+![Istio](https://img.shields.io/badge/-Istio-466BB0?logo=istio&logoColor=white)
+![Calico](https://img.shields.io/badge/-Calico-F58025?logo=calico&logoColor=white)
+![Cilium](https://img.shields.io/badge/-Cilium-F8C517?logo=cilium&logoColor=black)
+![Security](https://img.shields.io/badge/-Security-2E3440?logo=datadog&logoColor=white)
+![cert-manager](https://img.shields.io/badge/-cert--manager-326CE5?logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=icloud&logoColor=white)
 
 ## About Me
  
@@ -39,17 +45,6 @@ I’m a Backend & DevOps Engineer passionate about building reliable, scalable, 
 I started my academic journey in 2012 at QUT, where I studied Computer Engineering. My career began with PHP, and during university I strengthened my foundation by working with Java.
 In 2018, I transitioned into DevOps, where I found my true interest in automation, cloud-native infrastructure, and distributed systems.
 I genuinely enjoy working with Golang and Python, and I’m constantly learning, improving, and exploring new technologies. I believe in building systems that are practical, observable, and impactful in real-world environments.
-
-
-## Engineering Interests
- 
-- ☸️ Kubernetes internals & cluster design
-- 🔐 System security & networking
-- 🧩 Microservices architecture
-- 📦 Distributed storage (Ceph, S3)
-- 🗄️ Database custering
-- 🕸️ Service mesh
-- 📊 Cost monitoring & infrastructure analytics
 
 ---
  
