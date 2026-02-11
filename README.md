@@ -16,6 +16,21 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/-ELK-005571?logo=elastic&logoColor=white) 
 ![Ceph](https://img.shields.io/badge/-Ceph-EF5C55?logo=ceph&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-00599C?logo=cisco&logoColor=white)
+![Argo CD](https://img.shields.io/badge/-Argo%20CD-EF7B4D?logo=argo&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/-HAProxy-106DAA?logo=haproxy&logoColor=white)
+![Vault](https://img.shields.io/badge/-Vault-000000?logo=vault&logoColor=white)
+![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?logo=keycloak&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/-OIDC-EB5424?logo=openid&logoColor=white)
+![IAM](https://img.shields.io/badge/-IAM-232F3E?logo=amazonaws&logoColor=white)
+![Kubernetes Operator](https://img.shields.io/badge/-Kubernetes%20Operator-326CE5?logo=kubernetes&logoColor=white)
 
 
 ## About Me
